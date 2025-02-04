@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dassieadrien92400@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/adrien-dassié-43a57911b](linkedin.com/in/adrien-dassié-43a57911b)
+- 📄 Know about my experiences [https://www.linkedin.com/in/adrien-dassi%C3%A9-43a57911b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN72XYm2dRNa7oL4F%2FHzShA%3D%3D](https://www.linkedin.com/in/adrien-dassi%C3%A9-43a57911b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN72XYm2dRNa7oL4F%2FHzShA%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
