@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrien DASSIÉ</h1>
 <h3 align="center">A passionate Bigdata Analyst from Paris :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datarunnerexecutor&label=Profile%20views&color=0e75b6&style=flat" alt="datarunnerexecutor" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datarunnerexecutor" alt="datarunnerexecutor" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DataRunnerExecutor](https://github.com/DataRunnerExecutor)
