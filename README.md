@@ -9,7 +9,7 @@
 
 <h3 align="left">Reach me with :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adrien-dassi%c3%a9-43a57911b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrien-dassi%c3%a9-43a57911b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adrien-dassié?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJq0G4QjzThyZLwFnMHCzZQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrien-dassi%c3%a9-43a57911b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
